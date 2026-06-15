@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Ajaj Ali",
   initials: "Ajaj",
-  url: "https://github.com/ajaj123-debug",
+  url: "https://github.com/ajajalii",
   location: "Ambala, India",
   locationLink: "https://www.google.com/maps/place/Ambala",
   description:
@@ -46,7 +46,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/ajaj123-debug",
+        url: "https://github.com/ajajalii",
         icon: Icons.github,
 
         navbar: true,
@@ -109,7 +109,7 @@ export const DATA = {
     {
       company: "Open Source",
       badges: [],
-      href: "https://github.com/ajaj123-debug",
+      href: "https://github.com/ajajalii",
       location: "Remote",
       title: "Contributor",
       logoUrl: "/github-mark.png",
@@ -160,7 +160,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/ajaj123-debug/Nutriscan-food-labels-insights",
+          href: "https://github.com/ajajalii/Nutriscan-food-labels-insights",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -190,7 +190,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/ajaj123-debug",
+          href: "https://github.com/ajajalii",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -220,7 +220,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/ajaj123-debug",
+          href: "https://github.com/ajajalii",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -276,7 +276,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/ajaj123-debug/AncestryNest",
+          href: "https://github.com/ajajalii/AncestryNest",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -296,7 +296,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/ajaj123-debug",
+          href: "https://github.com/ajajalii",
         },
       ],
     },
