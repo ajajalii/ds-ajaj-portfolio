@@ -11,7 +11,7 @@ export const DATA = {
     "Tech Enthusiast passionate about Software Engineering. I love building things and helping people. Very active on X.",
   summary:
     "I’m a passionate [final year undergrad](#education) with a deep love for coding and technology. My journey has led me to develop a strong foundation in [Web development, DevOps](#education). I thrive on building innovative [products](#projects) and sharing my insights through blogging. Always eager to expand my skills and tackle new challenges, I’m actively seeking lucrative opportunities to leverage my tech expertise and drive impactful projects. Whether it’s through creating seamless web experiences or exploring the future of decentralized applications, I’m excited to contribute to the tech landscape and grow alongside it.",
-  avatarUrl: "/ajajnewimage.jpeg",
+  avatarUrl: "/ajaj_new.jpeg",
   skills: [
     "React",
     "Next.js",
@@ -35,7 +35,7 @@ export const DATA = {
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     {
-      href: "https://drive.google.com/file/d/1-U7zJqZHeW6bmMMNbA9xkjX88meoYX73/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1KF01Q7_xq4sdmsC1vkqKin3BIgna1kwl/view?usp=sharing",
       icon: NotebookIcon,
       label: "Resume",
     },
@@ -138,6 +138,39 @@ export const DATA = {
     },
   ],
   projects: [
+    {
+      title: "Branded Survey Builder",
+      href: "https://branded-survey-builder.pages.dev",
+      dates: "June 2026",
+      active: true,
+      description:
+        "Developed a Typeform-inspired survey platform with branded survey creation, public sharing, authentication, and response management. Built using React and TanStack Router on the frontend, with a serverless Hono API running on Cloudflare Workers backed by D1 for persistence. Deployed the complete application using Cloudflare Pages and Workers.",
+      technologies: [
+        "ReactJS",
+        "TypeScript",
+        "Vite",
+        "TanStack Router",
+        "Hono",
+        "Cloudflare Workers",
+        "Cloudflare D1",
+        "pnpm",
+        "Biome",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://branded-survey-builder.pages.dev",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/ajajalii/branded-survey-builder",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/login_page.png",
+      video: "",
+    },
     {
       title: "NutriScan",
       href: "https://nutriscan-food-labels-insights.onrender.com/",
