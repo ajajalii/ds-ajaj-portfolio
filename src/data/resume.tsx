@@ -84,6 +84,18 @@ export const DATA = {
 
   work: [
     {
+      company: "HCLTech",
+      href: "https://www.hcltech.com",
+      badges: [],
+      location: "Noida, India",
+      title: "Software Engineer Trainee",
+      logoUrl: "/hcltech_logo.jfif",
+      start: "Aug 2026",
+      end: "Present",
+      description:
+        "Developed and maintained web applications using React, Next.js, and Node.js, ensuring high performance and responsiveness. Implemented RESTful APIs and integrated third-party services to enhance application functionality. Collaborated with cross-functional teams to design and implement new features, improving user experience and engagement. Utilized Git for version control and participated in code reviews to maintain code quality.",
+    },
+    {
       company: "Alpha Intern Pvt Ltd",
       href: "https://alphaintern.in",
       badges: [],
@@ -91,7 +103,7 @@ export const DATA = {
       title: "Full Stack Developer",
       logoUrl: "/alphaintern.png",
       start: "2024",
-      end: "Present",
+      end: "July 2026",
       description:
         "Designed and developed the edtechnology platform using Next.js, React, and Tailwind CSS, resulting in a responsive and user-friendly interface. Implemented backend services with Node.js and Express, ensuring robust performance and scalability. Integrated third-party APIs for enhanced functionality, including payment gateways and analytics tools. Collaborated with cross-functional teams to deliver new features and improvements, leading to a 20% increase in user engagement. Utilized Git for version control and participated in code reviews to maintain high-quality standards.",
     },
