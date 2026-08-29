@@ -11,7 +11,7 @@ export const DATA = {
   description:
     "Tech Enthusiast passionate about Software Engineering. I love building things and helping people. Very active on X.",
   summary:
-    "I’m a passionate [final year undergrad](#education) with a deep love for coding and technology. My journey has led me to develop a strong foundation in [Web development, DevOps](#education). I thrive on building innovative [products](#projects) and sharing my insights through blogging. Always eager to expand my skills and tackle new challenges, I’m actively seeking lucrative opportunities to leverage my tech expertise and drive impactful projects. Whether it’s through creating seamless web experiences or exploring the future of decentralized applications, I’m excited to contribute to the tech landscape and grow alongside it.",
+    "I’m a passionate [Recent CS Grad](#education) with a deep love for coding and technology. My journey has led me to develop a strong foundation in [Web development, DevOps](#education). I thrive on building innovative [products](#projects) and sharing my insights through blogging. Always eager to expand my skills and tackle new challenges, I’m actively seeking lucrative opportunities to leverage my tech expertise and drive impactful projects. Whether it’s through creating seamless web experiences or exploring the future of decentralized applications, I’m excited to contribute to the tech landscape and grow alongside it.",
   avatarUrl: "/ajaj_new.jpeg",
   skills: [
     "React",
