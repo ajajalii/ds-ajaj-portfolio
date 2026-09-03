@@ -28,6 +28,7 @@ export default function Page() {
                 className="max-w-[600px] md:text-xl text-foreground"
                 delay={BLUR_FADE_DELAY}
                 text={DATA.description}
+                
               />
             </div>
             <BlurFade delay={BLUR_FADE_DELAY}>
