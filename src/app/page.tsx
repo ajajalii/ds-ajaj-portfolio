@@ -101,7 +101,6 @@ export default function Page() {
               delay={BLUR_FADE_DELAY * 8 + id * 0.05}
             >
               <ResumeCard
-              
                 key={education.school}
                 href={education.href}
                 logoUrl={education.logoUrl}
