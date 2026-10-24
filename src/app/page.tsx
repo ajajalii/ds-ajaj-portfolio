@@ -74,6 +74,7 @@ export default function Page() {
               key={work.company}
               delay={BLUR_FADE_DELAY * 6 + id * 0.05}
             >
+              
               <ResumeCard
                 key={work.company}
                 logoUrl={work.logoUrl}
